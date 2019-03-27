@@ -42,7 +42,7 @@ Execute the following command:
 
    Note: It is assumed that the scripts will be executed from 
   		 the current working directory. In other words 
-		 ``` ~/$HOME/pan_google_next_istio_lab/``` directory. 
+		 ``` ~/$HOME/gcp_next_labs/``` directory. 
 
    Execute the following command: 
    ``` ./istio-cfg.sh install_istio ```
@@ -80,7 +80,7 @@ Execute the following command:
 	
 	Execute the following command:
 
-	``` ./istio-cfg create_namespace pan-gcp-lab ```
+	``` ./istio-cfg.sh create_namespace pan-gcp-lab ```
 
 #### Install the application 
 
